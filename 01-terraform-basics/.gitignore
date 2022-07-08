@@ -36,3 +36,4 @@ override.tf.json
 # Ignore CLI configuration files
 .terraformrc
 terraform.rc
+# ignore me please 8th july
